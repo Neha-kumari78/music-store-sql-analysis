@@ -48,5 +48,4 @@ The database has these tables: `employee`, `customer`, `invoice`, `invoice_line`
 
 
 
-## Author
-`<Your Name>` | [LinkedIn](<your-linkedin-link>)
+
